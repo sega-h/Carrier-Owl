@@ -3,9 +3,11 @@ subject: 'cat:cs.*'
 
 # 検索キーワード
 keywords:
-        kaggle: 3
-        resnet: 3
-        anomaly detection: 1
+        virtual microphone: 5
+        virtual signal: 5
+        speech separation: 2
+        beamforming: 2
+        
 
 # 通知の閾値
 score_threshold: 0
